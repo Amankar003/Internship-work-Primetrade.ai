@@ -1,5 +1,3 @@
-# Internship-work-Primetrade.ai
-
 # 📊 Trader Behavior & Market Sentiment Analysis
 
 This project is part of the hiring assignment for the **Junior Data Scientist** role at **PrimeTrade.ai**. The goal of this analysis is to uncover insights into how trader behavior correlates with market sentiment (Fear/Greed) using real historical trading data from Hyperliquid and the Bitcoin Fear & Greed Index.
